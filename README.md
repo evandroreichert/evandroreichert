@@ -13,7 +13,6 @@
 
 - Um entusiasta aluno do programa Entra21 
 - Atualmente aprimorando habilidades em Desenvolvimento Web
-- Aberto a oportunidades de estágio ou novas posições profissionais
 - Perfil em busca de crescimento e aprendizado contínuo
 
 <br>

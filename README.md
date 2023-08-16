@@ -4,11 +4,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=F7F7F7&center=true&width=435&lines=Sou+aluno+do+Entra21+-+React" alt="Typing SVG" /></a>
 </p>
 
-
-<br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 

@@ -1,15 +1,3 @@
-# Oi, como vai?
-	
-## **Sobre mim**
-
-<br>
-
-- Estudante do programa Entra21 - React
-- 20 anos
-- Atualmente aprimorando habilidades em Desenvolvimento Web
-
-<br>
-
 ## **Entre em contato**
 <br>
 

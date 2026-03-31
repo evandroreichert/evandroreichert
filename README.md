@@ -1,6 +1,6 @@
 ## Evandro Reichert
 
-Desenvolvedor full-stack. Construo dashboards de BI, automações, integrações com APIs e plataformas web.
+Desenvolvedor full-stack.
 
 ### Stack
 
